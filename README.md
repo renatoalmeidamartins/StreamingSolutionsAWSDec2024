@@ -14,4 +14,4 @@
 - EMR Serverless --> https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/
 - 1-year retention in Kinesis streams -> https://aws.amazon.com/blogs/big-data/retaining-data-streams-up-to-one-year-with-amazon-kinesis-data-streams/
 - MSK Connect --> https://docs.aws.amazon.com/msk/latest/developerguide/msk-connect.html
-- 
+- Firehose can support zero-delay buffer --> https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/
