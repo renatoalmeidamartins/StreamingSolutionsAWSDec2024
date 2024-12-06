@@ -19,4 +19,5 @@
 - Kinesis Producer Library --> https://github.com/awslabs/amazon-kinesis-producer
 - Kinesis Client library --> https://github.com/awslabs/amazon-kinesis-client
 - Connecting Flink applications with MSK topics as sources --> https://aws.amazon.com/blogs/big-data/query-your-amazon-msk-topics-interactively-using-amazon-managed-service-for-apache-flink-studio/
--  
+-  Securing MSK --> https://docs.aws.amazon.com/msk/latest/developerguide/security.html
+-  Migrating from Kafka into MSK --> https://docs.aws.amazon.com/msk/latest/developerguide/migration.html
