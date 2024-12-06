@@ -7,7 +7,7 @@
 - Access to labs --> https://us-east-1.student.classrooms.aws.training/class/hZGT4dvW2h5VBvBSrv5g9C
 - SKill builder --> https://skillbuilder.aws/
 
- ##Resources explored in the class
+ ## Resources explored in the class
 
 - Database normalization --> https://en.wikipedia.org/wiki/Database_normalization
 - Star Schema --> https://en.wikipedia.org/wiki/Star_schema
