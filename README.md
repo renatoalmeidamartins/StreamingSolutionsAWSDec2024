@@ -15,3 +15,8 @@
 - 1-year retention in Kinesis streams -> https://aws.amazon.com/blogs/big-data/retaining-data-streams-up-to-one-year-with-amazon-kinesis-data-streams/
 - MSK Connect --> https://docs.aws.amazon.com/msk/latest/developerguide/msk-connect.html
 - Firehose can support zero-delay buffer --> https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/
+- Resharding a Kinesis Data Stream --> https://docs.aws.amazon.com/streams/latest/dev/kinesis-using-sdk-java-resharding-strategies.html
+- Kinesis Producer Library --> https://github.com/awslabs/amazon-kinesis-producer
+- Kinesis Client library --> https://github.com/awslabs/amazon-kinesis-client
+- Connecting Flink applications with MSK topics as sources --> https://aws.amazon.com/blogs/big-data/query-your-amazon-msk-topics-interactively-using-amazon-managed-service-for-apache-flink-studio/
+-  
