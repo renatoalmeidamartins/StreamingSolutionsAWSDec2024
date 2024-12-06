@@ -12,3 +12,5 @@
 - Window theory in Flink --> https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/operators/windows/
 - Windowing in SQL Flink (pay attention that this is from the nightly doc) --> https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/sql/queries/window-tvf/ 
 - EMR Serverless --> https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/
+- 1-year retention in Kinesis streams -> https://aws.amazon.com/blogs/big-data/retaining-data-streams-up-to-one-year-with-amazon-kinesis-data-streams/
+- 
