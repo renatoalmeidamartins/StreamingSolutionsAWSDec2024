@@ -1,5 +1,6 @@
-# Access to the lab environment
-https://us-east-1.student.classrooms.aws.training/class/hZGT4dvW2h5VBvBSrv5g9C
+# Building Streaming Analytics solutions on AWS - December 2024
+
+- Access to labs --> https://us-east-1.student.classrooms.aws.training/class/hZGT4dvW2h5VBvBSrv5g9C
 
 
 - Database normalization --> https://en.wikipedia.org/wiki/Database_normalization
