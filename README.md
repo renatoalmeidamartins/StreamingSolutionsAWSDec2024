@@ -11,3 +11,4 @@
 - Windowing examples in Flink --> https://docs.aws.amazon.com/managed-flink/latest/java/how-zeppelin-sql-examples.html#how-zeppelin-examples-tumbling
 - Window theory in Flink --> https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/operators/windows/
 - Windowing in SQL Flink (pay attention that this is from the nightly doc) --> https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/sql/queries/window-tvf/ 
+- EMR Serverless --> https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/
